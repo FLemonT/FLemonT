@@ -1,11 +1,9 @@
 <h1 align="center">ello🐱This is FLemonT</h1>
 <h3 align="center">Un jour je serais de retour près de toi.</h3>
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=FLemonT&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+- 🔭 I’m currently working on *ML*, *CV*.
 
-- 🔭 I’m currently working on [*ML*](*CV*)
-
-- 🌱 I’m currently learning ***embedded*, *robotics***
+- 🌱 I’m currently learning **embedded, robotics**
 
 - 📝 I regularly write articles on [https://www.bertzzz-horizon.xyz/](https://www.bertzzz-horizon.xyz/)
 
